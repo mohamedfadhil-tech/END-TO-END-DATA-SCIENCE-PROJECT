@@ -2,7 +2,15 @@
 
 
 This project is submitted as **Task 3** for the **CODTECH Data Science Internship**. It demonstrates a simple **end-to-end data science pipeline** using a manually created dataset and a basic rule-based prediction model — without using any external libraries like `scikit-learn`.
+Internship Credentials Company : CodTech IT Solutions
 
+Name : Mohamed Fadhil U.F
+
+Intern ID : CITSOD822
+
+Domain : Data Science
+
+Duration : Neela Santhosh
 ---
 
 ## 📌 Task Objective
