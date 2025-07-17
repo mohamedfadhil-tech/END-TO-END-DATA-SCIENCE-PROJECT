@@ -48,3 +48,10 @@ The dataset consists of flower features including:
 Since external ML libraries are not used, the model uses **simple rule-based classification** based on **petal length**:
 
 ```python
+Done By:
+
+Mohamed Fadhil U.F
+
+Data Science Intern
+
+CodTech IT Solutions
