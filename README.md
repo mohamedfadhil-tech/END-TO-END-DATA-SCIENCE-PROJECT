@@ -3,6 +3,9 @@
 
 This project is submitted as **Task 3** for the **CODTECH Data Science Internship**. It demonstrates a simple **end-to-end data science pipeline** using a manually created dataset and a basic rule-based prediction model — without using any external libraries like `scikit-learn`.
 Internship Credentials Company : CodTech IT Solutions
+ 
+COMPANY :CODTECH IT SOLUTIONS
+
 
 Name : Mohamed Fadhil U.F
 
@@ -44,11 +47,9 @@ The dataset consists of flower features including:
 
 ---
 
-## 🧠 Model Logic
+the output for above data are:
 
-Since external ML libraries are not used, the model uses **simple rule-based classification** based on **petal length**:
-
-```python
+<img width="631" height="156" alt="Image" src="https://github.com/user-attachments/assets/106368f9-51de-4b43-85b9-f0bf1996663c" />
 Done By:
 
 Mohamed Fadhil U.F
