@@ -10,14 +10,15 @@ Intern ID : CITSOD822
 
 Domain : Data Science
 
-Duration : Neela Santhosh
----
+duration: 4 weeks
+
+mentor : neela santhosh
 
 ## 📌 Task Objective
 
 > **Task 3**: Develop a full data science project, from data collection and preprocessing to model deployment using Flask or any logic-based prediction method.
 
----
+
 
 ## 🚀 Project Description
 
